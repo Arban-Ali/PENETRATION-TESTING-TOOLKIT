@@ -1,5 +1,15 @@
 # PENETRATION-TESTING-TOOLKIT
 
+*Company Name* : Codtech IT Solutions Private Limited
+*Name* : Sayyad Arban Ali
+*Intern Id* : CTIS5711
+*Domain* : Cyber Security & Ethical Hacking
+*Duration* : 16 Weeks
+*Mentor* : Neela Santosh
+
+
+# PENETRATION-TESTING-TOOLKIT
+
 A lightweight, Python-based modular cybersecurity toolkit designed for network reconnaissance and security auditing.
 
 ## 📌 Project Overview
