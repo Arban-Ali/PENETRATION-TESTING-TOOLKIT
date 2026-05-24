@@ -38,3 +38,9 @@ pentest_toolkit/
 
 ## ⚖️ Disclaimer
 This toolkit is developed strictly for educational purposes and authorized security assessments. Unauthorized scanning of external networks or infrastructure without explicit, prior written consent is strictly illegal. The developer assumes no liability for misuse.
+
+
+
+
+OUTPUT:
+<img width="1920" height="1030" alt="Image" src="https://github.com/user-attachments/assets/cd55dee2-f7ee-4e7b-be3a-900ba1c3b46f" />
